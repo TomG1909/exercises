@@ -1,4 +1,5 @@
-Verbesserungen
+Übung 1
+Verbesserungen:
 role="main" und aria-label am <main> - Klare Rollenvergabe für Screenreader, was der Hauptbereich ist.
 aria-labelledby="introduction" für erste Section - Verknüpft Inhalt logisch miteinander.
 aria-label="Content Section" für die innere Section - Bessere Gliederung für Screenreader-Benutzer.
@@ -9,3 +10,6 @@ visually-hidden Klasse - Text wird nur für Screenreader sichtbar gemacht (CSS s
 
 Verbesserte Version
 https://codepen.io/TomG1909/pen/zxxEPWv
+
+Übung 2
+https://codepen.io/TomG1909/pen/dPPVJaw
